@@ -48,11 +48,11 @@ Anápolis=0;9999999;4999550(4718363502090/9437576)
 2. nodejs/basic.js 파일을 복사한 뒤에 수정해서 최적화합니다.
 
 ## Python
-버전은 Python 3.0.2입니다.
+버전은 Python 3.10.12입니다.
 1. ruby 경로에 새 파일을 만듭니다.
 
 ## Ruby
-버전은 Python 3.10.12입니다.
+버전은 Ruby 3.0.2 입니다.
 1. python 경로에 새 파일을 만듭니다.
 
 ## Java
@@ -94,12 +94,13 @@ Anápolis=0;9999999;4999550(4718363502090/9437576)
 | 11   | Go       | [Basic](./go/cmd/basic/main.go)               | 191004ms  |
 | 12   | C#       | [Basic](./csharp/basic/Program.cs)            | 215245ms  |
 | 13   | PHP      | [Basic](./php/basic.php)                      | 259109ms  |
-| 14   | Node.js  | [sunrabbit2](./nodejs/sunrabbit2/index.js)    | 491985ms  |
-| 15   | Node.js  | [sunrabbit1](./nodejs/sunrabbit1/index.js)    | 580870ms  |
-| 16   | Node.js  | [Basic](./nodejs/basic.js)                    | 921809ms  |
-| 17   | Python   | [Basic](./python/basic.py)                    | 936269ms  |
-| 18   | Ruby     | [Basic](./ruby/basic.rb)                      | 1271762ms |
-| 19   | Erlang   | [Basic](./erlang/basic/main.erl)              | 3488261ms |
+| 14   | Node.js  | [prravda1](./nodejs/prravda1/index.js)        | 290298ms  |
+| 15   | Node.js  | [sunrabbit2](./nodejs/sunrabbit2/index.js)    | 491985ms  |
+| 16   | Node.js  | [sunrabbit1](./nodejs/sunrabbit1/index.js)    | 580870ms  |
+| 17   | Node.js  | [Basic](./nodejs/basic.js)                    | 921809ms  |
+| 18   | Python   | [Basic](./python/basic.py)                    | 936269ms  |
+| 19   | Ruby     | [Basic](./ruby/basic.rb)                      | 1271762ms |
+| 20   | Erlang   | [Basic](./erlang/basic/main.erl)              | 3488261ms |
 
 ## Reference
 
